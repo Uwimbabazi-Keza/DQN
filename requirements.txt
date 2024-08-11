@@ -1,0 +1,4 @@
+gym
+stable_baselines3
+pygame
+shimmy
